@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.TwoSumProblem;
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
